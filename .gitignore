@@ -65,3 +65,8 @@ credentials/*.json
 
 # content.json
 content.json
+
+content/*.png
+content/*.jpg
+content/*.jpeg
+content/*.gif
